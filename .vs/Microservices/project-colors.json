@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "955008dc-b96e-4e24-a2d4-69b113c08bb8": {
+      "ProjectGuid": "955008dc-b96e-4e24-a2d4-69b113c08bb8",
+      "DisplayName": "FreeCourse.Services.Catalog",
+      "ColorIndex": 0
+    },
+    "20e29faa-0793-45a7-9208-0390f8e2b8d2": {
+      "ProjectGuid": "20e29faa-0793-45a7-9208-0390f8e2b8d2",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "e2f42970-dac9-444c-9ab5-b4a9fb1fe93d": {
+      "ProjectGuid": "e2f42970-dac9-444c-9ab5-b4a9fb1fe93d",
+      "DisplayName": "FreeCourse.Services.Catalog",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
